@@ -5,4 +5,7 @@
     <string name="botao_logar">Logar</string>
     <string name="nao_tem_conta">Não tem conta? Cadastre-se</string>
     <string name="imagem_description">Logo do App</string>
+    <string name="imagem_cadastro_description">Imagem Cadastro</string>
+    <string name="digite_nome">Digite o nome</string>
+    <string name="botao_cadastrar">Cadastrar</string>
 </resources>
